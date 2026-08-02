@@ -125,10 +125,6 @@ Emotion-aware-visual-speech-recognition/
 
 ---
 
-# 📊 Results
-
-The proposed multimodal framework combines facial emotion recognition, lip movement analysis, and MFCC-based speech features to improve contextual speech prediction.
-
 ### 📈 Model Accuracy
 
 ![Model Accuracy](assets/model_accuracy.png)
@@ -152,7 +148,6 @@ The proposed multimodal framework combines facial emotion recognition, lip movem
 ### ⏱️ Training Progress (Epoch 10)
 
 ![Epoch 10](assets/epoch10.png)
-
 ---
 
 # 🚀 Future Improvements
