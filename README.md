@@ -106,21 +106,20 @@ Open the notebook and run all cells to execute the complete pipeline.
 ---
 
 # 📁 Project Structure
-
-```text
+```
 Emotion-aware-visual-speech-recognition/
 │
-├── emotion_aware_visual_speech_recognition.ipynb
-├── README.md
+├── assets/
+│   ├── model_accuracy.png
+│   ├── model_loss.png
+│   ├── emotion_confusion_matric.png
+│   ├── lip_reading_confusion_matrix.png
+├── normalised_emotion_confusion_matrix.png
+│   └── epoch10.png
+├──
+├── Emotion-aware-visual-speech-recognition.ipynb
 ├── requirements.txt
-├── .gitignore
-└── assets/
-    ├── model_accuracy.png
-    ├── model_loss.png
-    ├── emotion_confusion_matrix.png
-    ├── normalized_emotion_confusion_matrix.png
-    ├── lip_reading_confusion_matrix.png
-    └── epoch10.png
+└── README.md
 ```
 
 ---
