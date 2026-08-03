@@ -147,7 +147,7 @@ Emotion-aware-visual-speech-recognition/
 
 ### ⏱️ Training Progress (Epoch 10)
 
-![Epoch 10](assets/epoch10.png)
+![Epoch 10](assets/epoch10.jpg)
 ---
 
 # 🚀 Future Improvements
