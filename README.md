@@ -127,23 +127,23 @@ Emotion-aware-visual-speech-recognition/
 
 ### 📈 Model Accuracy
 
-![Model Accuracy](assets/model_accuracy.png)
+![Model Accuracy](assets/model_accuracy.jpg)
 
 ### 📉 Model Loss
 
-![Model Loss](assets/model_loss.png)
+![Model Loss](assets/model_loss.jpg)
 
 ### 😊 Emotion Confusion Matrix
 
-![Emotion Confusion Matrix](assets/emotion_confusion_matrix.png)
+![Emotion Confusion Matrix](assets/emotion_confusion_matrix.jpg)
 
 ### 📊 Normalized Emotion Confusion Matrix
 
-![Normalized Emotion Confusion Matrix](assets/normalized_emotion_confusion_matrix.png)
+![Normalized Emotion Confusion Matrix](assets/normalized_emotion_confusion_matrix.jpg)
 
 ### 👄 Lip Reading Confusion Matrix
 
-![Lip Reading Confusion Matrix](assets/lip_reading_confusion_matrix.png)
+![Lip Reading Confusion Matrix](assets/lip_reading_confusion_matrix.jpg)
 
 ### ⏱️ Training Progress (Epoch 10)
 
